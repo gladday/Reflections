@@ -6,3 +6,24 @@ How is the staging area different from the working directory and the repository?
 
 	It acts like a buffer to be changed. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	Before commiting changes, we can verify whether it is right or wrong.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	We can seperate the stable and the experimental version so that we can keep the stable version safe. 
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps us to understand the relationship among branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	one master branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	convenience vs. accuracy
+
+
